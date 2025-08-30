@@ -4,7 +4,7 @@
 #     type "$1" &> /dev/null ;
 # }
 
-ALIASES_HOME=$PWD
+ALIASES_HOME=$HOME
 
 for FILE_PREFIX in  n8n 
                     #cli \
