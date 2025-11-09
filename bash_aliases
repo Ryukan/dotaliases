@@ -6,8 +6,8 @@
 
 ALIASES_HOME=$HOME
 
-for FILE_PREFIX in  n8n 
-                    #cli \
+for FILE_PREFIX in  n8n \
+                    homelab 
 do
   source $ALIASES_HOME/git/dotaliases/bash/${FILE_PREFIX}_aliases
 done
